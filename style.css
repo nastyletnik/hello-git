@@ -1,0 +1,11 @@
+﻿body {
+	background: red;
+}
+#base {
+	width: 100%;
+}
+span {
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+}
